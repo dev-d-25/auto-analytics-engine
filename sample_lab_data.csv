@@ -1,0 +1,19 @@
+reporting_period,facility,safe_deliveries,child_immunisation_rate,stockout_days
+2025-04-01,Pune Rural,88,90,4
+2025-05-01,Pune Rural,92,93,3
+2025-06-01,Pune Rural,29,58,17
+2025-04-01,Nashik North,90,91,5
+2025-05-01,Nashik North,91,92,4
+2025-06-01,Nashik North,90,92,5
+2025-04-01,Nagpur Central,84,86,7
+2025-05-01,Nagpur Central,86,88,6
+2025-06-01,Nagpur Central,87,89,6
+2025-04-01,Thane West,93,95,2
+2025-05-01,Thane West,94,96,2
+2025-06-01,Thane West,95,97,1
+2025-04-01,Surat East,80,83,12
+2025-05-01,Surat East,82,85,10
+2025-06-01,Surat East,83,86,9
+2025-04-01,Jaipur South,76,80,14
+2025-05-01,Jaipur South,78,81,12
+2025-06-01,Jaipur South,79,82,13
